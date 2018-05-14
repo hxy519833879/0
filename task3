@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>task3</title>
+    <style type="text/css">
+        *{
+            margin: 0;
+        }
+        body {
+            background: #76c7d1;
+        }
+        .top{
+            width: 94%;
+            height: 3rem;
+            margin: 1rem;
+            float: left;
+        }
+        .top1{
+            width: 94%;
+            height: 5rem;
+            margin: 1rem 3%;
+            float: left;
+            text-align: center;
+        }
+        .head{
+            color: white;
+            width: 70%;
+            height: 5rem;
+            margin: 1rem 15%;
+            float: left;
+            font-size: small;
+        }
+        .bottom1 {
+            flex-flow: column;
+            color: white;
+            width: 20%;
+            height: 4.5rem;
+            margin: 3rem 15% 0.5rem 15%;
+            float: left;
+            font-size: small;
+            text-align: center;
+        }
+        .bottom2 {
+            color: white;
+            width: 20%;
+            height: 4.5rem;
+            margin: 3rem 15% 0.5rem 15%;
+            float: left;
+            font-size: small;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="top"><img src="3.png"width="25PX"height="25PX"></div>
+<div class="top1"><img src="6.png"width="100PX"height="auto"></div>
+<div class="head">葡萄糖轻游戏专注于桌游领域，提供在线杀人游戏，捉鬼，炸狼堡等多种聚会游戏，以线下聚会桌游道具为主。</div>
+<div class="bottom1"><img src="5.png" width="40PX"height="auto"></br>22222222</div>
+<div class="bottom2"><img src="7.png" width="40PX"height="auto"></br>BJPTTENG</div>
+</body>
+</html>
